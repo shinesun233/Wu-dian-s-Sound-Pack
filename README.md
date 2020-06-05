@@ -4,6 +4,10 @@ This is Wu_dian's Sound Pack Offical Download Website.
 
 这是污点音效包的官方下载网站。
 
+支持版本：1.8.X
+
+Supported versions:1.8.X
+
 Introduction Video:(None yet)
 
 介绍视频：(暂无)
