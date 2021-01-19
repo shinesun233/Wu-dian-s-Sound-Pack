@@ -2,7 +2,7 @@
 
 This is Wu_dian's Sound Pack **Offical** Download Website.
 
-这是污点*鬼畜*音效包的**官方**下载网站。
+这是污点*鬼畜*音效包的**官方**下载库。
 
 Supported versions:1.8.X
 
